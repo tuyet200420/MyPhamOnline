@@ -1,0 +1,514 @@
+{
+  "users": [
+    {
+      "email": "hotuyet214@gmail.com",
+      "password": "$2a$10$CB03dVaGl7qkiC/JdNS/RuCz6FVn9vRa/ullk7967Yql4QC9.gpbW",
+      "name": "HT tuyết",
+      "gender": "female",
+      "cart": [
+        {
+          "name": "Nước Tẩy Trang Cho Da Nhạy Cảm Và Da Khô Bioderma Sensibio H2O Micellar Water 500ml",
+          "categoryId": 5,
+          "price": 280000,
+          "trademark": "Bioderma",
+          "id": "99b3809b-d909-477d-8e38-d481dceb6d98",
+          "images": [
+            "https://www.kosmebox.com/image/cache/data/BIODERMA/bioderma-sensibio-h20-micellar-water/bioderma-sensibio-h2-%20micellar-water-500ml-8-500x500.jpg",
+            "https://www.kosmebox.com/image/cache/data/BIODERMA/bioderma-sensibio-h20-micellar-water/bioderma-sensibio-h2-%20micellar-water-500ml-13-500x500.jpg",
+            "https://www.kosmebox.com/image/cache/data/BIODERMA/bioderma-sensibio-h20-micellar-water/bioderma-sensibio-h2-%20micellar-water-500ml-1-500x500.jpg",
+            "https://www.kosmebox.com/image/cache/data/BIODERMA/bioderma-sensibio-h20-micellar-water/bioderma-sensibio-h2-%20micellar-water-500ml-2-500x500.jpg",
+            "https://www.kosmebox.com/image/cache/data/BIODERMA/bioderma-sensibio-h20-micellar-water/bioderma-sensibio-h2-%20micellar-water-500ml-18-500x500.jpg",
+            "https://www.kosmebox.com/image/cache/data/BIODERMA/bioderma-sensibio-h20-micellar-water/bioderma-sensibio-h2-%20micellar-water-500ml-20-500x500.jpg"
+          ],
+          "departmentId": 2,
+          "productOptions": [],
+          "category": null,
+          "productId": 15,
+          "count": 5
+        },
+        {
+          "name": "Kem Nền Catrice HD Liquid Coverage Foundation",
+          "categoryId": 2,
+          "trademark": "YSL",
+          "price": 300000,
+          "id": "adac5fe2-b1ac-4ef1-ae17-39cc6f03eb36",
+          "images": [
+            "https://hadibeauty.com/wp-content/uploads/2018/03/anh-1_7.jpg",
+            "https://hadibeauty.com/wp-content/uploads/2018/03/kem-nen-catrice-hd-liquid-coverage-30ml-1m4G3-GZck6P.jpg",
+            "https://hadibeauty.com/wp-content/uploads/2018/03/96285583_3046828212029691_8281517100757942272_o.jpg"
+          ],
+          "departmentId": 1,
+          "productOptions": [
+            {
+              "id": 1,
+              "productId": 9,
+              "name": "30ml",
+              "price": 0
+            },
+            {
+              "id": 2,
+              "productId": 9,
+              "name": "60ml",
+              "price": 80000
+            }
+          ],
+          "category": null,
+          "productId": 9,
+          "count": 1
+        },
+        {
+          "name": "Kem Nền Catrice HD Liquid Coverage Foundation",
+          "categoryId": 2,
+          "trademark": "YSL",
+          "price": 380000,
+          "id": "2fc3f8e7-0051-4b59-98df-c5abde5ae260",
+          "images": [
+            "https://hadibeauty.com/wp-content/uploads/2018/03/anh-1_7.jpg",
+            "https://hadibeauty.com/wp-content/uploads/2018/03/kem-nen-catrice-hd-liquid-coverage-30ml-1m4G3-GZck6P.jpg",
+            "https://hadibeauty.com/wp-content/uploads/2018/03/96285583_3046828212029691_8281517100757942272_o.jpg"
+          ],
+          "departmentId": 1,
+          "productOptions": [
+            {
+              "id": 1,
+              "productId": 9,
+              "name": "30ml",
+              "price": 0
+            },
+            {
+              "id": 2,
+              "productId": 9,
+              "name": "60ml",
+              "price": 80000
+            }
+          ],
+          "category": "60ml",
+          "productId": 9,
+          "count": 2
+        }
+      ],
+      "avatar": "https://scontent.fdad3-2.fna.fbcdn.net/v/t1.6435-9/88101251_2597887233824946_716744249730662400_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=DzC5lxuiVr0AX-Y-RYl&_nc_ht=scontent.fdad3-2.fna&oh=3b5c2bfabe17369ce2261d137ee0bc1d&oe=6165E95E",
+      "role": "user",
+      "createdAt": 1631076342757,
+      "updatedAt": 1632319243927,
+      "id": 3
+    },
+    {
+      "email": "tuyet@gmail.com",
+      "password": "$2a$10$CZdj53ovJKyTdv2nvoRfruQdFakaCA3t.O/c3IM0bTZ0OPZGp1CQC",
+      "name": "tuyet",
+      "gender": "female",
+      "cart": [
+        {
+          "name": "Kem Nền Catrice HD Liquid Coverage Foundation",
+          "categoryId": 2,
+          "trademark": "YSL",
+          "price": 300000,
+          "id": "9be12b2d-7d15-49a4-8699-d886cb9ecc0d",
+          "images": [
+            "https://hadibeauty.com/wp-content/uploads/2018/03/anh-1_7.jpg",
+            "https://hadibeauty.com/wp-content/uploads/2018/03/kem-nen-catrice-hd-liquid-coverage-30ml-1m4G3-GZck6P.jpg",
+            "https://hadibeauty.com/wp-content/uploads/2018/03/96285583_3046828212029691_8281517100757942272_o.jpg"
+          ],
+          "departmentId": 1,
+          "productOptions": [
+            {
+              "id": 1,
+              "productId": 9,
+              "name": "30ml",
+              "price": 0
+            },
+            {
+              "id": 2,
+              "productId": 9,
+              "name": "60ml",
+              "price": 80000
+            }
+          ],
+          "category": "30ml",
+          "productId": 9,
+          "count": 4
+        },
+        {
+          "name": "Dầu Gội Tinh Chất Collagen Sao Biển Dưỡng Ẩm Chuyên Sâu Và Chăm Sóc Tóc Khô Collanic Premium Nourishing Shampoo",
+          "categoryId": 10,
+          "price": 280000,
+          "trademark": "Collanic",
+          "id": "66a81194-4862-4829-bba6-145d172ca4f0",
+          "images": [
+            "https://www.kosmebox.com/image/cache/data/Collanic/collanic-premium-nourishing-shampoo-fix/collanic-premium-nourishing-shampoo-01-500x500.jpg",
+            "https://www.kosmebox.com/image/cache/data/Collanic/collanic-premium-nourishing-shampoo-fix/collanic-premium-nourishing-shampoo-07-500x500.jpg",
+            "https://www.kosmebox.com/image/cache/data/Collanic/collanic-premium-nourishing-shampoo-fix/collanic-premium-nourishing-shampoo-011-500x500.jpg",
+            "https://www.kosmebox.com/image/cache/data/Collanic/collanic-premium-nourishing-shampoo-fix/collanic-premium-nourishing-shampoo-05-500x500.jpg"
+          ],
+          "departmentId": 3,
+          "productOptions": [],
+          "category": null,
+          "productId": 14,
+          "count": 1
+        },
+        {
+          "name": "Tinh Chất Tạo Kiểu Tóc Mise En Scene Perfect Hair Serum Styling",
+          "categoryId": 9,
+          "price": 300000,
+          "trademark": "Mise En Scene",
+          "id": "6b212daa-657d-496c-aab5-bec5c5b7279c",
+          "images": [
+            "https://www.kosmebox.com/image/cache/data/Mise-En-Scene/tinh-chat-tao-kieu-toc-mise-en-scene-perfect-hair-serum-styling.html/tinh-chat-tao-kieu-toc-mise-en-scene-perfect-hair-serum-styling.html6-500x500.jpg",
+            "https://www.kosmebox.com/image/cache/data/Mise-En-Scene/tinh-chat-tao-kieu-toc-mise-en-scene-perfect-hair-serum-styling.html/tinh-chat-tao-kieu-toc-mise-en-scene-perfect-hair-serum-styling.html7-500x500.JPG",
+            "https://www.kosmebox.com/image/cache/data/Mise-En-Scene/tinh-chat-tao-kieu-toc-mise-en-scene-perfect-hair-serum-styling.html/tinh-chat-tao-kieu-toc-mise-en-scene-perfect-hair-serum-styling.html8-500x500.JPG",
+            "https://www.kosmebox.com/image/cache/data/Mise-En-Scene/tinh-chat-tao-kieu-toc-mise-en-scene-perfect-hair-serum-styling.html/tinh-chat-tao-kieu-toc-mise-en-scene-perfect-hair-serum-styling.html2-500x500.JPG"
+          ],
+          "departmentId": 3,
+          "productOptions": [],
+          "category": null,
+          "productId": 11,
+          "count": 3
+        }
+      ],
+      "role": "user",
+      "createdAt": 1631076750159,
+      "updatedAt": 1632576637551,
+      "id": 4
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "name": "Trang điểm"
+    },
+    {
+      "id": 2,
+      "name": "Chăm sóc da mặt"
+    },
+    {
+      "name": "Chăm sóc tóc",
+      "createdAt": 1628339995854,
+      "updatedAt": 1628339995854,
+      "id": 3
+    },
+    {
+      "name": "Chăm sóc body",
+      "createdAt": 1628339995854,
+      "updatedAt": 1628339995854,
+      "id": 4
+    },
+    {
+      "name": "Phụ kiện",
+      "createdAt": 1628339995854,
+      "updatedAt": 1628339995854,
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "name": "son",
+      "createdAt": 1628339995854,
+      "updatedAt": 1628339995854,
+      "id": 1,
+      "departmentId": 1
+    },
+    {
+      "name": "kem nền",
+      "createdAt": 1628339995854,
+      "updatedAt": 1628339995854,
+      "id": 2,
+      "departmentId": 1
+    },
+    {
+      "name": "Kẻ mắt",
+      "createdAt": 1628339995854,
+      "updatedAt": 1628339995854,
+      "id": 3,
+      "departmentId": 1
+    },
+    {
+      "name": "Kẻ mày",
+      "createdAt": 1628339995854,
+      "updatedAt": 1628339995854,
+      "id": 4,
+      "departmentId": 1
+    },
+    {
+      "name": "Tẩy trang",
+      "createdAt": 1628339995854,
+      "updatedAt": 1628339995854,
+      "id": 5,
+      "departmentId": 2
+    },
+    {
+      "name": "Sửa rửa mặt",
+      "createdAt": 1628339995854,
+      "updatedAt": 1628339995854,
+      "id": 6,
+      "departmentId": 2
+    },
+    {
+      "name": "Kem dưỡng",
+      "createdAt": 1628339995854,
+      "updatedAt": 1628339995854,
+      "id": 7,
+      "departmentId": 2
+    },
+    {
+      "name": "Kem chống nắng",
+      "createdAt": 1628339995854,
+      "updatedAt": 1628339995854,
+      "id": 8,
+      "departmentId": 2
+    },
+    {
+      "name": "Tinh chất dưỡng tóc",
+      "createdAt": 1628339995854,
+      "updatedAt": 1628339995854,
+      "id": 9,
+      "departmentId": 3
+    },
+    {
+      "name": "Dầu gội",
+      "createdAt": 1628339995854,
+      "updatedAt": 1628339995854,
+      "id": 10,
+      "departmentId": 3
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Son 3CE Cloud Lip Tint",
+      "categoryId": 1,
+      "price": 280000,
+      "trademark": "3CE",
+      "images": [
+        "https://hadibeauty.com/wp-content/uploads/2018/03/son-3ce-cloud-lip-tint-macaron-red.jpg",
+        "https://hadibeauty.com/wp-content/uploads/2020/11/3ce-cloud-lip-tint-active-lady.jpg",
+        "https://hadibeauty.com/wp-content/uploads/2020/11/bang-mau-3ce-cloud-lip-tint-active-lady.jpg"
+      ],
+      "departmentId": 1
+    },
+    {
+      "id": 2,
+      "name": "Son MAC Lipstick Kakao Friends Edition",
+      "trademark": "MAC",
+      "categoryId": 1,
+      "price": 550000,
+      "images": [
+        "https://hadibeauty.com/wp-content/uploads/2021/04/Son-MAC-Lipstick-Kakao-Friends-Edition.jpg",
+        "https://hadibeauty.com/wp-content/uploads/2021/04/Son-MAC-Lipstick-Kakao-Friends-Edition.png",
+        "https://hadibeauty.com/wp-content/uploads/2021/04/Son-MAC-Lipstick-Kakao-Friends-Edition-5.jpg"
+      ],
+      "departmentId": 1
+    },
+    {
+      "id": 3,
+      "name": "Son YSL Rouge Pur Couture The Slim Glow Matte",
+      "categoryId": 1,
+      "trademark": "YSL",
+      "price": 5000000,
+      "images": [
+        "https://hadibeauty.com/wp-content/uploads/2021/04/Son-YSL-Rouge-Pur-Couture-The-Slim-Glow-Matte.jpg",
+        "https://hadibeauty.com/wp-content/uploads/2021/04/Son-YSL-Rouge-Pur-Couture-The-Slim-Glow-Matte-4.jpg",
+        "https://hadibeauty.com/wp-content/uploads/2021/04/Son-YSL-Rouge-Pur-Couture-The-Slim-Glow-Matte-3.jpg"
+      ],
+      "departmentId": 1
+    },
+    {
+      "id": 4,
+      "name": "Son Kem Black Rouge Half N Half Water Velvet",
+      "categoryId": 1,
+      "price": 165000,
+      "trademark": "YSL",
+      "images": [
+        "https://hadibeauty.com/wp-content/uploads/2021/04/Son-Kem-Black-Rouge-Half-N-Half-Water-Velvet.jpg",
+        "https://hadibeauty.com/wp-content/uploads/2021/04/Son-Kem-Black-Rouge-Half-N-Half-Water-Velvet.png",
+        "https://hadibeauty.com/wp-content/uploads/2021/04/Son-Kem-Black-Rouge-Half-N-Half-Water-Velvet-5.png",
+        "https://hadibeauty.com/wp-content/uploads/2021/04/Son-Kem-Black-Rouge-Half-N-Half-Water-Velvet-4.jpg"
+      ],
+      "departmentId": 1
+    },
+    {
+      "id": 5,
+      "name": "Cushion KLAVUU (xám)",
+      "categoryId": 2,
+      "trademark": "YSL",
+      "price": 360000,
+      "images": [
+        "https://hadibeauty.com/wp-content/uploads/2020/06/unnamed-5.jpg",
+        "https://hadibeauty.com/wp-content/uploads/2020/06/Klavuu-Urban-Pearlsation-High-Coverage-Tension-Cushion-1-600x600-1.png",
+        "https://hadibeauty.com/wp-content/uploads/2020/06/Missha-Geum-Sul-Vitalizing-Tension-Pact-SPF30-PA-Cushion1-900x675-1.jpg",
+        "https://hadibeauty.com/wp-content/uploads/2020/06/phan-nuoc-klavuu-urban-pearlsation-high-coverage-tension-cushion-spf50-pa-sunscreen-8.jpg"
+      ],
+      "departmentId": 1
+    },
+    {
+      "id": 6,
+      "name": "Cushion Sulwhasoo Limited 2019",
+      "categoryId": 2,
+      "trademark": "YSL",
+      "price": 5000000,
+      "images": [
+        "https://hadibeauty.com/wp-content/uploads/2020/06/56162829_327324641260326_3851227484183855104_n.jpg",
+        "https://hadibeauty.com/wp-content/uploads/2020/06/sws_phoenix_product01_2.jpg",
+        "https://hadibeauty.com/wp-content/uploads/2020/06/7a0137e8895b5a1837aa4a63807c141c.jpg"
+      ],
+      "departmentId": 1
+    },
+    {
+      "name": "Kem Nền Catrice All Matt Plus Shine Control",
+      "categoryId": 2,
+      "trademark": "YSL",
+      "price": 25000000,
+      "id": 7,
+      "images": [
+        "https://hadibeauty.com/wp-content/uploads/2020/06/a2553013ff75a8c0ef1b79cfae96ebc5.jpg",
+        "https://hadibeauty.com/wp-content/uploads/2020/06/f25903e4bfcdfe57abdd72a4fbf59378.jpg",
+        "https://hadibeauty.com/wp-content/uploads/2020/06/Ph%E1%BA%A5n-Ph%E1%BB%A7-Catrice-All-Matt-Plus-Shine-Control-Powder-2.jpg"
+      ],
+      "departmentId": 1
+    },
+    {
+      "name": "Kem Nền Clio Nudism Velvetwear Foundation Set",
+      "categoryId": 2,
+      "trademark": "YSL",
+      "price": 3000000,
+      "id": 8,
+      "images": [
+        "https://hadibeauty.com/wp-content/uploads/2021/03/Kem-Nen-Clio-Nudism-Velvetwear-Foundation-Set.jpg",
+        "https://hadibeauty.com/wp-content/uploads/2021/03/Kem-Nen-Clio-Nudism-Velvetwear-Foundation-Set-4.jpg",
+        "https://hadibeauty.com/wp-content/uploads/2021/03/Kem-Nen-Clio-Nudism-Velvetwear-Foundation-Set-3.jpg"
+      ],
+      "departmentId": 1
+    },
+    {
+      "name": "Kem Nền Catrice HD Liquid Coverage Foundation",
+      "categoryId": 2,
+      "trademark": "YSL",
+      "price": 300000,
+      "id": 9,
+      "images": [
+        "https://hadibeauty.com/wp-content/uploads/2018/03/anh-1_7.jpg",
+        "https://hadibeauty.com/wp-content/uploads/2018/03/kem-nen-catrice-hd-liquid-coverage-30ml-1m4G3-GZck6P.jpg",
+        "https://hadibeauty.com/wp-content/uploads/2018/03/96285583_3046828212029691_8281517100757942272_o.jpg"
+      ],
+      "departmentId": 1
+    },
+    {
+      "name": "Phấn Nước April Skin Black Magic Snow Cushion 2.0 SPF 50+ PA+++",
+      "categoryId": 2,
+      "price": 300000,
+      "trademark": "YSL",
+      "id": 10,
+      "images": [
+        "https://hadibeauty.com/wp-content/uploads/2018/03/abae5da8a5eb75f9103320913f7db69c.jpg",
+        "https://hadibeauty.com/wp-content/uploads/2018/03/106019178_3053223194796728_1748754822104729121_n.jpg",
+        "https://hadibeauty.com/wp-content/uploads/2018/03/8076322a2b0029d533e2da7eb72aa63c.jpg",
+        "https://hadibeauty.com/wp-content/uploads/2018/03/07ec94a0-783e-11e7-887e-c5a070c79e77.jpg"
+      ],
+      "departmentId": 1
+    },
+    {
+      "name": "Tinh Chất Tạo Kiểu Tóc Mise En Scene Perfect Hair Serum Styling",
+      "categoryId": 9,
+      "price": 300000,
+      "trademark": "Mise En Scene",
+      "id": 11,
+      "images": [
+        "https://www.kosmebox.com/image/cache/data/Mise-En-Scene/tinh-chat-tao-kieu-toc-mise-en-scene-perfect-hair-serum-styling.html/tinh-chat-tao-kieu-toc-mise-en-scene-perfect-hair-serum-styling.html6-500x500.jpg",
+        "https://www.kosmebox.com/image/cache/data/Mise-En-Scene/tinh-chat-tao-kieu-toc-mise-en-scene-perfect-hair-serum-styling.html/tinh-chat-tao-kieu-toc-mise-en-scene-perfect-hair-serum-styling.html7-500x500.JPG",
+        "https://www.kosmebox.com/image/cache/data/Mise-En-Scene/tinh-chat-tao-kieu-toc-mise-en-scene-perfect-hair-serum-styling.html/tinh-chat-tao-kieu-toc-mise-en-scene-perfect-hair-serum-styling.html8-500x500.JPG",
+        "https://www.kosmebox.com/image/cache/data/Mise-En-Scene/tinh-chat-tao-kieu-toc-mise-en-scene-perfect-hair-serum-styling.html/tinh-chat-tao-kieu-toc-mise-en-scene-perfect-hair-serum-styling.html2-500x500.JPG"
+      ],
+      "departmentId": 3
+    },
+    {
+      "name": "Xịt Dưỡng Tóc Chắc Khỏe Giảm Gãy Rụng Innisfree My Hair Recipe Strength Tonic Essence 100ml",
+      "categoryId": 9,
+      "price": 300000,
+      "trademark": "Innisfree",
+      "id": 12,
+      "images": [
+        "https://www.kosmebox.com/image/cache/data/INNISFREE/xit-duong-toc-chac-khoe-giam-gay-rung-innisfree-my-hair-recipe-strength-tonic-essence/recipe-Strength-Tonic-Essence-5-500x500.jpg",
+        "https://www.kosmebox.com/image/cache/data/INNISFREE/xit-duong-toc-chac-khoe-giam-gay-rung-innisfree-my-hair-recipe-strength-tonic-essence/recipe-Strength-Tonic-Essence-4-500x500.jpg",
+        "https://www.kosmebox.com/image/cache/data/INNISFREE/xit-duong-toc-chac-khoe-giam-gay-rung-innisfree-my-hair-recipe-strength-tonic-essence/recipe-Strength-Tonic-Essence-7-500x500.jpg",
+        "https://www.kosmebox.com/image/cache/data/INNISFREE/xit-duong-toc-chac-khoe-giam-gay-rung-innisfree-my-hair-recipe-strength-tonic-essence/recipe-Strength-Tonic-Essence-1-500x500.jpg",
+        "https://www.kosmebox.com/image/cache/data/INNISFREE/xit-duong-toc-chac-khoe-giam-gay-rung-innisfree-my-hair-recipe-strength-tonic-essence/recipe-Strength-Tonic-Essence-3-500x500.jpg"
+      ],
+      "departmentId": 3
+    },
+    {
+      "name": "Dầu Xả Dưỡng Tóc Chiết Xuất Từ Sữa Dừa Ogx Nourishing Coconut Milk Conditioner",
+      "categoryId": 10,
+      "price": 300000,
+      "trademark": "OGX Beauty",
+      "id": 13,
+      "images": [
+        "https://www.kosmebox.com/image/cache/data/Ogx-Beauty/ogx-nourishing-coconut-milk-conditioner/dau-xa-duong-toc-chiet-xuat-tu-sua-dua-ogx-nourishing-coconut-milk-conditioner-5-500x500.jpg",
+        "https://www.kosmebox.com/image/cache/data/Ogx-Beauty/ogx-nourishing-coconut-milk-conditioner/dau-xa-duong-toc-chiet-xuat-tu-sua-dua-ogx-nourishing-coconut-milk-conditioner-1-500x500.jpg",
+        "https://www.kosmebox.com/image/cache/data/Ogx-Beauty/ogx-nourishing-coconut-milk-conditioner/dau-xa-duong-toc-chiet-xuat-tu-sua-dua-ogx-nourishing-coconut-milk-conditioner-6-500x500.jpg",
+        "https://www.kosmebox.com/image/cache/data/Ogx-Beauty/ogx-nourishing-coconut-milk-conditioner/dau-xa-duong-toc-chiet-xuat-tu-sua-dua-ogx-nourishing-coconut-milk-conditioner-4-500x500.jpg"
+      ],
+      "departmentId": 3
+    },
+    {
+      "name": "Dầu Gội Tinh Chất Collagen Sao Biển Dưỡng Ẩm Chuyên Sâu Và Chăm Sóc Tóc Khô Collanic Premium Nourishing Shampoo",
+      "categoryId": 10,
+      "price": 280000,
+      "trademark": "Collanic",
+      "id": 14,
+      "images": [
+        "https://www.kosmebox.com/image/cache/data/Collanic/collanic-premium-nourishing-shampoo-fix/collanic-premium-nourishing-shampoo-01-500x500.jpg",
+        "https://www.kosmebox.com/image/cache/data/Collanic/collanic-premium-nourishing-shampoo-fix/collanic-premium-nourishing-shampoo-07-500x500.jpg",
+        "https://www.kosmebox.com/image/cache/data/Collanic/collanic-premium-nourishing-shampoo-fix/collanic-premium-nourishing-shampoo-011-500x500.jpg",
+        "https://www.kosmebox.com/image/cache/data/Collanic/collanic-premium-nourishing-shampoo-fix/collanic-premium-nourishing-shampoo-05-500x500.jpg"
+      ],
+      "departmentId": 3
+    },
+    {
+      "name": "Nước Tẩy Trang Cho Da Nhạy Cảm Và Da Khô Bioderma Sensibio H2O Micellar Water 500ml",
+      "categoryId": 5,
+      "price": 280000,
+      "trademark": "Bioderma",
+      "id": 15,
+      "images": [
+        "https://www.kosmebox.com/image/cache/data/BIODERMA/bioderma-sensibio-h20-micellar-water/bioderma-sensibio-h2-%20micellar-water-500ml-8-500x500.jpg",
+        "https://www.kosmebox.com/image/cache/data/BIODERMA/bioderma-sensibio-h20-micellar-water/bioderma-sensibio-h2-%20micellar-water-500ml-13-500x500.jpg",
+        "https://www.kosmebox.com/image/cache/data/BIODERMA/bioderma-sensibio-h20-micellar-water/bioderma-sensibio-h2-%20micellar-water-500ml-1-500x500.jpg",
+        "https://www.kosmebox.com/image/cache/data/BIODERMA/bioderma-sensibio-h20-micellar-water/bioderma-sensibio-h2-%20micellar-water-500ml-2-500x500.jpg",
+        "https://www.kosmebox.com/image/cache/data/BIODERMA/bioderma-sensibio-h20-micellar-water/bioderma-sensibio-h2-%20micellar-water-500ml-18-500x500.jpg",
+        "https://www.kosmebox.com/image/cache/data/BIODERMA/bioderma-sensibio-h20-micellar-water/bioderma-sensibio-h2-%20micellar-water-500ml-20-500x500.jpg"
+      ],
+      "departmentId": 2
+    },
+    {
+      "name": "Nước Tẩy Trang Cho Da Nhạy Cảm La Roche-Posay Eau Micellaire Ultra 400ml",
+      "categoryId": 5,
+      "price": 280000,
+      "trademark": "La Roche-Posay",
+      "id": 16,
+      "images": [
+        "https://www.kosmebox.com/image/cache/data/Laroche-Posay/nuoc-tay-trang-cho-da-nhay-cam-la-roche-posay-eau-micellaire-ultra-400ml/la-roche-posay-micellar-water-ultra-sensitive-skin-400ml-1-500x500.jpg",
+        "https://www.kosmebox.com/image/cache/data/Laroche-Posay/nuoc-tay-trang-cho-da-nhay-cam-la-roche-posay-eau-micellaire-ultra-400ml/la-roche-posay-micellar-water-ultra-sensitive-skin-400ml-5-500x500.jpg",
+        "https://www.kosmebox.com/image/cache/data/Laroche-Posay/nuoc-tay-trang-cho-da-nhay-cam-la-roche-posay-eau-micellaire-ultra-400ml/la-roche-posay-micellar-water-ultra-sensitive-skin-400ml-3-500x500.jpg",
+        "https://www.kosmebox.com/image/cache/data/Laroche-Posay/nuoc-tay-trang-cho-da-nhay-cam-la-roche-posay-eau-micellaire-ultra-400ml/la-roche-posay-micellar-water-ultra-sensitive-skin-400ml-4-500x500.jpg",
+        "https://www.kosmebox.com/image/cache/data/Laroche-Posay/nuoc-tay-trang-cho-da-nhay-cam-la-roche-posay-eau-micellaire-ultra-400ml/la-roche-posay-micellar-water-ultra-sensitive-skin-400ml-8-500x500.jpg",
+        "https://www.kosmebox.com/image/cache/data/Laroche-Posay/nuoc-tay-trang-cho-da-nhay-cam-la-roche-posay-eau-micellaire-ultra-400ml/la-roche-posay-micellar-water-ultra-sensitive-skin-400ml-7-500x500.jpg"
+      ],
+      "departmentId": 2
+    }
+  ],
+  "productOptions": [
+    {
+      "id": 1,
+      "productId": 9,
+      "name": "30ml",
+      "price": 0
+    },
+    {
+      "id": 2,
+      "productId": 9,
+      "name": "60ml",
+      "price": 80000
+    }
+  ],
+  "orders": []
+}
