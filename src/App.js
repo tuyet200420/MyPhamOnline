@@ -12,6 +12,9 @@ import ProductDetailPage from "./pages/user/ProductDetail";
 import ProductPage from "./pages/user/Product";
 import RegisterPage from "./pages/Register";
 import LoginUserPage  from "./pages/Login";
+import CheckoutPage from "./pages/user/Checkout";
+
+
 import DashboardPage from "./pages/admin/Dashboard";
 import { ThemeProvider } from 'styled-components';
 import { lightTheme } from './styles/themes';
@@ -45,23 +48,13 @@ function App() {
           <DefaultLayout exact path="/" component={HomePage} />
           <DefaultLayout exact path="/register" component={RegisterPage} />
           <DefaultLayout exact path="/cart" component={CartPage} />
+          <DefaultLayout exact path = "/checkout" component = {CheckoutPage}/>
           <DefaultLayout exact path="/login" component={LoginUserPage} />
-          <AdminLayout exact path="/admin" component={DashboardPage} />
+          {/* <AdminLayout exact path="/admin" component={DashboardPage} /> */}
           <DefaultLayout exact path="/product/:id" component={ProductDetailPage} />
           <DefaultLayout exact path="/:department" component={ProductPage} />
-          {/*<DefaultLayout exact path="/about" component={AboutPage} />
-        
-        <DefaultLayout exact path="/cart" component={CartPage} />
-        <DefaultLayout exact path="/checkout" component={CheckoutPage} />
-
-        <AdminLayout exact path="/admin" component={DashboardPage} />
-        <AdminLayout exact path="/admin/products" component={ProductListPage} />
-        <AdminLayout exact path="/admin/categories" component={CategoryListPage} />
-        <AdminLayout exact path="/admin/to-do-list" component={ToDoListPage} />
-
-        <FullLayout exact path="/login" component={LoginPage} />
-        <FullLayout exact path="/register" component={RegisterPage} />
-        <FullLayout component={NotFoundPage} /> */}
+          
+        {/* <FullLayout component={NotFoundPage} />  */}
         </Switch>
       </Router>
     </ThemeProvider>
