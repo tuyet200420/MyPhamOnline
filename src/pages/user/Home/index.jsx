@@ -50,8 +50,8 @@ function HomePage() {
 
   const settingsSlider = {
     dots: true,
-    pauseOnHover:false,
-    autoplay:true,
+    pauseOnHover: false,
+    autoplay: true,
     infinite: true,
     speed: 500,
     slidesToShow: 1,
@@ -95,8 +95,39 @@ function HomePage() {
       </Style.SubBanner>
       <Style.ProductContainer>
         <Style.Title>BEST ITEMS OF MONTH</Style.Title>
-        <RenderProduct productList={productList} handleShowMore={handleShowMore}/>
+        <RenderProduct productList={productList} handleShowMore={handleShowMore} />
       </Style.ProductContainer>
+      <Style.VideoBox>
+        <Row gutter={[{ xs: 8, sm: 16, md: 24, lg: 32 }, { xs: 8, sm: 16, md: 24, lg: 32 }]}>
+          <Col md={8} xs={12}>
+            <iframe src='https://www.youtube.com/embed/OQcABcUFsZU'
+              style={{ width: "100%" }}
+              frameborder='0'
+              allow='autoplay; encrypted-media'
+              allowfullscreen
+              title='video'
+            />
+          </Col>
+          <Col md={8} xs={12}>
+            <iframe src='https://www.youtube.com/embed/80F2I-Rbn1k'
+              style={{ width: "100%" }}
+              frameborder='0'
+              allow='autoplay; encrypted-media'
+              allowfullscreen
+              title='video'
+            />
+          </Col>
+          <Col md={8} xs={12}>
+            <iframe src='https://www.youtube.com/embed/Wfd2hOgBSZ4'
+              style={{ width: "100%" }}
+              frameborder='0'
+              allow='autoplay; encrypted-media'
+              allowfullscreen
+              title='video'
+            />
+          </Col>
+        </Row>
+      </Style.VideoBox>
 
     </>
   )

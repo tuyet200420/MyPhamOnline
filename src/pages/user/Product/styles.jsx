@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import {Checkbox} from 'antd'
-export const ProductConatiner = styled.div`
+export const ProductContainer = styled.div`
   margin: 0 auto;
   max-width: 1200px;
   padding: 30px 0;

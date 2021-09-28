@@ -10,6 +10,16 @@ export const SubBanner = styled.div`
     padding-right: 30px;
   }
 `
+export const VideoBox = styled.div`
+  margin: 0 auto;
+  padding-bottom: 80px ;
+  max-width: 1100px;
+  @media (max-width:991px) {
+    padding-bottom: 40px ;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+`
 export const Banner = styled.div`
   padding-top: 35%;
   background-image: url(${(props)=>props.image && props.image});

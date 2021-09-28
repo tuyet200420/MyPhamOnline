@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { Row, Col, Image, Slider } from 'antd'
+import { Row, Col, Rate, Slider } from 'antd'
 import RenderProduct from '../components/RenderProduct'
 import { useSelector, useDispatch } from 'react-redux';
 import {
@@ -22,15 +22,15 @@ function ProductPage({ match }) {
   useEffect(() => {
     dispatch(getProductListAction({ page: 1, departmentId }));
     dispatch(getCategoryListAction({ departmentId }));
-    dispatch(getDepartmentDetailAction({id:departmentId}));
+    dispatch(getDepartmentDetailAction({ id: departmentId }));
   }, []);
-  
+
   console.log("🚀 ~ file: index.jsx ~ line 23 ~ ProductPage ~ departmentDetail", departmentDetail)
 
   useEffect(() => {
     dispatch(getProductListAction({ page: 1, departmentId }));
     dispatch(getCategoryListAction({ departmentId }));
-    dispatch(getDepartmentDetailAction({id:departmentId}));
+    dispatch(getDepartmentDetailAction({ id: departmentId }));
   }, [departmentId]);
 
   function handleShowMore() {
@@ -40,17 +40,27 @@ function ProductPage({ match }) {
     }));
   }
 
-  const optionsCatagory = categoryList.data.map((categoryItem, categoryIndex) => {
+  const optionsCategory = categoryList.data.map((categoryItem, categoryIndex) => {
     return {
       label: categoryItem.name,
       value: categoryItem.id
     }
   })
+  const optionsStart = () => {
+    const optionRate = []
+    for (let i = 5; i >0; i--) {
+      optionRate.push({
+        label: <Rate disabled defaultValue={i} />,
+        value: i
+      })
+    }
+    return optionRate
+  }
   function handleFilterCategory(value) {
     setCategoriesSelect(value);
     dispatch(getProductListAction({
       page: 1,
-      categoriesSelected:value,
+      categoriesSelected: value,
       priceRange,
       departmentId
     }));
@@ -67,7 +77,7 @@ function ProductPage({ match }) {
 
   return (
     <>
-      <Style.ProductConatiner>
+      <Style.ProductContainer>
         <Row >
           <Col md={6}>
             <Style.ProductSlideBar>
@@ -78,7 +88,7 @@ function ProductPage({ match }) {
                   <Style.CheckBoxGroup
                     onChange={(value) => handleFilterCategory(value)}
                     value={categoriesSelected}
-                    options={optionsCatagory} />
+                    options={optionsCategory} />
                 </div>
               </Style.SlideItemBox>
               <Style.SlideItemBox>
@@ -93,6 +103,13 @@ function ProductPage({ match }) {
                     value={priceRange}
                     range={{ draggableTrack: true }}
                   />
+                </div>
+              </Style.SlideItemBox>
+              <Style.SlideItemBox>
+                <div className="title">Đánh giá: </div>
+                <div className="item">
+                  <Style.CheckBoxGroup
+                    options={optionsStart()} />
                 </div>
               </Style.SlideItemBox>
             </Style.ProductSlideBar>
@@ -111,8 +128,8 @@ function ProductPage({ match }) {
             </Row>
           </Col>
         </Row>
-      </Style.ProductConatiner>
-      
+      </Style.ProductContainer>
+
     </>
   )
 }
